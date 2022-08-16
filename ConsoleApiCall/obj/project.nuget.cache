@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8fmBFiIfk6qJef3dM0uLtCLm+4e/IPnjGNYe4en/C3L703Ge8L/7FYJt2mYMwBVMQZ9squMZAPNEdBRr8tGSA==",
+  "success": true,
+  "projectFilePath": "/Users/pattyrose/Desktop/c0ding/ConsoleApiCall.Solution/ConsoleApiCall/ConsoleApiCall.csproj",
+  "expectedPackageFiles": [
+    "/Users/pattyrose/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/pattyrose/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
